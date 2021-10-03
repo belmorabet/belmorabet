@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @belmorabet
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning programming
